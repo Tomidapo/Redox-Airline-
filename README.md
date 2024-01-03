@@ -1,5 +1,5 @@
 # Redox Airline
-![Data Analyst](https://github.com/princeadeakanni/Express_Logistics/blob/main/Intro%20Image.PNG)
+![Data Analyst](https://github.com/Tomidapo/Redox-Airline-/blob/main/360_F_271782927_keMVFo9PnBwrMEmbiUGKRcDT2rzf85dj.jpg)
 
 ## Introduction
 In the fast-paced world of aviation, the ability to harness data for informed decision-making is crucial for the success and sustainability of an airline. As consultants for a startup airline operating out of the bustling Chicago, Illinois area, we recognize the unique challenges faced by the management team. While their expertise lies in the intricacies of airline operations, a lack of financial and data analytics experience, coupled with disparate systems, hampers their ability to extract valuable insights efficiently.
@@ -28,7 +28,7 @@ Operational Inefficiencies: The lack of streamlined data processes and analytics
 - Dashboard Development
 - Data Cleaning and Transformation
 
-![Data Analyst](https://github.com/princeadeakanni/Express_Logistics/blob/main/Express%20Logistics%20Image.jpg)
+![Data Analyst](https://github.com/Tomidapo/Redox-Airline-/blob/main/Kolhatkar-Airline.jpg.webp)
 
 ## Modelling
 Modeling Approach: Transforming Data Challenges into Strategic Insights
@@ -62,7 +62,7 @@ Predictive Analysis
 
 ## Analysis
 
-![Data Analyst](https://github.com/princeadeakanni/Express_Logistics/blob/main/Decomposition%20Tree%20Analysis.PNG)
+![Data Analyst](https://github.com/Tomidapo/Redox-Airline-/blob/main/Screenshot%202024-01-03%20at%2019.31.19.jpg)
 
 Pivot chart and Pivot table
 Cost-Benefit Analysis
@@ -72,7 +72,7 @@ Predictive Analysis
 ## Dashboard View
 Our interactive dashboard provides a comprehensive overview of logistics performance metrics, customer feedback analysis, and real-time tracking of deliveries.
 
-![Data Analyst](https://github.com/princeadeakanni/Express_Logistics/blob/main/Main%20Dashboard.PNG)
+![Data Analyst](https://github.com/Tomidapo/Redox-Airline-/blob/main/Screenshot%202024-01-03%20at%2019.21.24.jpg)
 
 
 ## Recommendations for Business Growth:
